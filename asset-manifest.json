@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jie-studio/static/css/main.337c8dc0.css",
+    "main.css": "/jie-studio/static/css/main.f32536ef.css",
     "main.js": "/jie-studio/static/js/main.d3b135e2.js",
     "static/js/453.22db2aab.chunk.js": "/jie-studio/static/js/453.22db2aab.chunk.js",
     "static/media/bootstrap-icons.woff?": "/jie-studio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/jie-studio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/jie-studio/index.html",
-    "main.337c8dc0.css.map": "/jie-studio/static/css/main.337c8dc0.css.map",
+    "main.f32536ef.css.map": "/jie-studio/static/css/main.f32536ef.css.map",
     "main.d3b135e2.js.map": "/jie-studio/static/js/main.d3b135e2.js.map",
     "453.22db2aab.chunk.js.map": "/jie-studio/static/js/453.22db2aab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.337c8dc0.css",
+    "static/css/main.f32536ef.css",
     "static/js/main.d3b135e2.js"
   ]
 }
